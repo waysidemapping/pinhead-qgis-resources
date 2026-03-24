@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path fill="param(fill) #888" stroke="param(outline) #000" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity) 1" stroke-opacity="param(outline-opacity) 1" d="M10 11L15 11L15 14L10 14L10 11ZM0 7L9 7L9 11.67L9 14L0 14L0 7Z"/>
+</svg>

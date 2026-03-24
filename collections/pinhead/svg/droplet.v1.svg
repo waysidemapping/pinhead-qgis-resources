@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 15 15" xmlns="http://www.w3.org/2000/svg">
+  <path fill="param(fill) #888" stroke="param(outline) #000" stroke-width="param(outline-width) 0" fill-opacity="param(fill-opacity) 1" stroke-opacity="param(outline-opacity) 1" d="M7.5 14C9.58 14 12 12.71 12 9.43C12 7.21 8.54 2.29 7.5 1C6.58 2.29 3 7.09 3 9.43C3 12.71 5.42 14 7.5 14Z"/>
+</svg>
